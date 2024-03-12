@@ -1,3 +1,5 @@
+**Simple Theme Switchig App built with Custom Hooks and ContextAPI** <br/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
